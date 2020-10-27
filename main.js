@@ -22,4 +22,4 @@ function setup() {
 
 function draw() {
     background("#3E8C47");
-}
+} 
